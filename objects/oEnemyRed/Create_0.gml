@@ -1,0 +1,1 @@
+path_start(asset_get_index("EH" + string(pathvar)), ehsp*dir, path_action_reverse, false);
